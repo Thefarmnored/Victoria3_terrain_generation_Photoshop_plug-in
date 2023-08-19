@@ -1,4 +1,4 @@
-# Victoria3 terrain Generation Photoshop plug-in
+# Victoria3 terrain 生成 Photoshop plug-in
 为了在 Photoshop 中调整好图层的包含颜色后能够直接生成地形文件，而不是依次导出再依次操作最后再合并代码……
 为了能够一步到位，所以需要能够和 Photoshop 关联起来，所以这是一个 Photoshop plug-in
 
